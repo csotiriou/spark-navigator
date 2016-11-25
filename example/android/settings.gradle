@@ -1,0 +1,3 @@
+rootProject.name = 'spark_nav'
+
+include ':app'

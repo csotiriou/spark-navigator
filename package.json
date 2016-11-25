@@ -1,0 +1,33 @@
+{
+  "name": "react-native-spark-navigator",
+  "version": "0.0.1",
+  "description": "A lightweight and simple navigator for React Native",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csotiriou/spark-navigator.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "ios",
+    "android",
+    "navigator"
+  ],
+  "dependencies": {
+    "react-native": "0.38.0",
+    "react": "15.4.1"
+  },
+  "author": "Christos Sotiriou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csotiriou/spark-navigator/issues"
+  },
+  "homepage": "https://github.com/csotiriou/spark-navigator#readme"
+}
